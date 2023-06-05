@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000329">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: google_play_track_version_codes" time="1.779697">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: google_play_track_release_names" time="1.747071">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: set_properties_value" time="0.001174">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: set_properties_value" time="0.001639">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: flutter packages get" time="6.368152">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: flutter build appbundle  -t lib/main.dart --build-name=1.2.4 --build-number=21" time="175.049522">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: upload_to_play_store" time="56.48325">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
