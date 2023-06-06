@@ -6,3 +6,12 @@ used packages;
 CI/CD;
  - Fastlane
 
+
+
+CORE;
+-the folder with the immutable files of the project
+  
+  --Constants
+  --data/network
+    -internet-based data exchange layer
+  --init
