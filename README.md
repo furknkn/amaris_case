@@ -10,8 +10,7 @@ CI/CD;
 
 CORE;
 -the folder with the immutable files of the project
-  
-  --Constants
-  --data/network
-    -internet-based data exchange layer
-  --init
+ --Constants
+ --data/network
+   -internet-based data exchange layer
+ --init
